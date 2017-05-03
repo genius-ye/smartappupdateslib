@@ -1,0 +1,8 @@
+H:/AS_Workspace/vmm-2.0/smartappupdateslib/src/main/obj/local/mips/objs/ApkPatchLibrary/H_\AS_Workspace\vmm-2.0\smartappupdateslib\src\main\jni\bzip2\crctable.o: \
+  H:\AS_Workspace\vmm-2.0\smartappupdateslib\src\main\jni\bzip2\crctable.c \
+  H:\AS_Workspace\vmm-2.0\smartappupdateslib\src\main\jni\bzip2/bzlib_private.h \
+  H:\AS_Workspace\vmm-2.0\smartappupdateslib\src\main\jni\bzip2/bzlib.h
+
+H:\AS_Workspace\vmm-2.0\smartappupdateslib\src\main\jni\bzip2/bzlib_private.h:
+
+H:\AS_Workspace\vmm-2.0\smartappupdateslib\src\main\jni\bzip2/bzlib.h:
